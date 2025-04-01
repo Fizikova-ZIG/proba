@@ -1,2 +1,2 @@
-# proba.fizikova.github.io
+# fizikova-zig.github.io/proba
 Oktatás
